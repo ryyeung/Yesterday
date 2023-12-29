@@ -94,9 +94,9 @@
 		76AFA52F2B3A5AE100628165 /* Yesterday */ = {
 			isa = PBXGroup;
 			children = (
-				76AFA5302B3A5AE100628165 /* YesterdayApp.swift */,
 				76AFA5322B3A5AE100628165 /* ContentView.swift */,
 				76AFA5342B3A5AE300628165 /* Assets.xcassets */,
+				76AFA5302B3A5AE100628165 /* YesterdayApp.swift */,
 				76AFA5362B3A5AE300628165 /* Preview Content */,
 			);
 			path = Yesterday;

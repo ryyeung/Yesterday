@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct YesterdayApp: App {
+    
+    @StateObject var album = Album()
+    
+    
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomePage()
+            
         }
     }
 }
